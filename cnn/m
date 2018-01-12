@@ -1,0 +1,4 @@
+pdflatex cnn
+bibtex cnn
+pdflatex cnn
+open cnn.pdf
