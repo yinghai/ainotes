@@ -9,6 +9,7 @@
 *.alg
 *.bbl
 *.blg
+*.bcf
 *.dvi
 *.glg
 *.gls
